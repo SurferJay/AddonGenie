@@ -1,0 +1,14 @@
+# Win64 belongs to the SDK: ignore everything, then allow ours.
+/*
+!/.gitignore
+!/.gitattributes
+!/.github/
+!/X2EditorAddonLauncher.bat
+
+!/Addons/
+/Addons/*
+!/Addons/DependencyViewer.cs
+!/Addons/PackageLoader.cs
+!/Addons/PackageRenamer.cs
+!/Addons/RedirectorManager.cs
+!/Addons/SwfPorter.cs
